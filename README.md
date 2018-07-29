@@ -1,6 +1,6 @@
 ﻿# MyReads Project
 
-To run this project you only need to type "npm install" in your terminal, and after that run "npm start". The project should load automatically at http://localhost:3000/
+To run this project you only need to type "npm install" in your terminal, and after that run "npm start". The project should load automatically at http://localhost:3000/ in your browser.
 
 ## Backend Server
 
